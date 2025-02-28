@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Niharika.
-- 👀 I’m interested in full stack developer.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking for guidance in full stack developer field.
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking for guidance in Data analyst field.
 - 📫 How to reach me :nihaviswanadham3@gmail.com
 
 <!---
